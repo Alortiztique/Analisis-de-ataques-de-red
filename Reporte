@@ -1,0 +1,13 @@
+
+Section 1: Identify the type of attack that may have caused this network interruption
+
+A possible type of attack that may have caused this network interruption is a **DDoS (distributed denial of service) attack**. This is a type of network attack that uses multiple compromised devices or servers in different locations to flood the target network with unwanted traffic, making it difficult or impossible to access the legitimate services.
+
+Section 2: Explain how the attack is causing the website to malfunction
+
+A DDoS attack can cause the website to malfunction in several ways, such as:
+
+- Consuming the bandwidth and resources of the web server, making it slow or unresponsive to the legitimate requests from the users. ¹²
+- Blocking the access to the DNS server that hosts the domain name of the website, preventing the users from resolving the IP address of the website. ³
+- Disrupting the communication between the web server and the database server, causing errors or inconsistencies in the data displayed on the website. ⁴
+- Redirecting the users to a fake or malicious website that mimics the appearance of the original website, but contains harmful content or collects sensitive information. ⁵
